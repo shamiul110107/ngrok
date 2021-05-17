@@ -1,0 +1,11 @@
+	{
+	    "applinks": {
+		        "apps": [],
+		        "details": [
+	            {
+		                "appID": “RZNUR3LLCK.com.stellasoftware.statewide",
+		                "paths": ["*"]
+		            }
+		        ]
+		    }
+		}
